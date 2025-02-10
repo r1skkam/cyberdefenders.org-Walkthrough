@@ -46,3 +46,6 @@ Q9. Which encryption algorithm is applied to secure the data before sending?
 
 Q10. What does the extension access to store or manipulate session-related data and authentication information?
 
+![image](https://github.com/user-attachments/assets/b1a7b127-bb33-4a98-a7d9-3e2fc312c726)
+
+![image](https://github.com/user-attachments/assets/82a366bd-02d7-4739-8035-7415a2321ff7)
