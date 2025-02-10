@@ -26,3 +26,23 @@ Q4. What is the first specific condition in the code that triggers the extension
 
 Q5. Which event does the extension capture to track user input submitted through forms?
 
+![image](https://github.com/user-attachments/assets/74a4e5c9-595b-4c94-999b-052936ceaf63)
+
+Q6. Which API or method does the extension use to capture and monitor user keystrokes?
+
+![image](https://github.com/user-attachments/assets/385256b0-1517-46d4-85fa-5be291af4478)
+
+Q7. What is the domain where the extension transmits the exfiltrated data?
+
+![image](https://github.com/user-attachments/assets/2debc38d-72f6-4644-af86-95a364a0da86)
+
+Q8. Which function in the code is used to exfiltrate user credentials, including the username and password?
+
+![image](https://github.com/user-attachments/assets/2fa68e62-5b5d-49d7-812d-634bc0ee310a)
+
+Q9. Which encryption algorithm is applied to secure the data before sending?
+
+![image](https://github.com/user-attachments/assets/fdb0601b-5065-414c-9ad4-a3408ee49d6f)
+
+Q10. What does the extension access to store or manipulate session-related data and authentication information?
+
