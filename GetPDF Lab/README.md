@@ -9,3 +9,6 @@
 Q1. How many URL path(s) are involved in this incident?
 
 ![image](https://github.com/user-attachments/assets/892dd204-029f-4693-a37b-7667a00a1b88)
+
+Q2. What is the URL which contains the JS code?
+
