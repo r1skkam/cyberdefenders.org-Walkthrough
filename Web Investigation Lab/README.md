@@ -22,3 +22,12 @@ Q3. Identifying the exploited script allows security teams to understand exactly
 
 Q4. Establishing the timeline of an attack, starting from the initial exploitation attempt, What's the complete request URI of the first SQLi attempt by the attacker?
 
+```
+frame contains "search.php?search="
+```
+
+![image](https://github.com/user-attachments/assets/eeda6dcd-b617-41af-9696-3419a86e619a)
+
+http://bookworldstore.com/search.php?search=book%20and%201=1;%20--%20-
+
+![image](https://github.com/user-attachments/assets/e74c7f8f-5829-4dee-b3fa-2680b03e5308)
